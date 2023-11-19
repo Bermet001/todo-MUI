@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-MUI/static/css/main.15767d3e.css",
+    "main.js": "/todo-MUI/static/js/main.ef4c0802.js",
+    "index.html": "/todo-MUI/index.html",
+    "main.15767d3e.css.map": "/todo-MUI/static/css/main.15767d3e.css.map",
+    "main.ef4c0802.js.map": "/todo-MUI/static/js/main.ef4c0802.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15767d3e.css",
+    "static/js/main.ef4c0802.js"
+  ]
+}
